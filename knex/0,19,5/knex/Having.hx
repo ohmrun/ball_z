@@ -1,0 +1,3 @@
+package knex;
+
+typedef Having<TRecord, TResult> = ts.AnyOf6<(tableName:String, column1:Any, operator_:ComparisionOperator, column2:Any) -> QueryBuilder<TRecord, TResult>, (tableName:String, column1:String, operator_:String, column2:String) -> QueryBuilder<TRecord, TResult>, (sql:String, bindings:haxe.extern.Rest<RawBinding>) -> QueryBuilder<TRecord, Any>, (sql:String, bindings:ts.AnyOf2<Array<RawBinding>, ValueDict>) -> QueryBuilder<TRecord, Any>, (raw:Raw<Any>) -> QueryBuilder<TRecord, Any>, (callback:QueryCallback<Dynamic, Array<Any>>) -> QueryBuilder<TRecord, TResult>>;

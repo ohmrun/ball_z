@@ -1,0 +1,3 @@
+package knex;
+
+typedef ValueDict = { };

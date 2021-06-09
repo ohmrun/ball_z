@@ -1,0 +1,3 @@
+package knex;
+
+typedef Union<TRecord, TResult> = ts.AnyOf3<(callback:MaybeArray<ts.AnyOf3<Raw<Dynamic>, QueryCallback<Dynamic, Array<Any>>, QueryBuilder<TRecord, Dynamic>>>) -> QueryBuilder<TRecord, TResult>, (callback:MaybeArray<ts.AnyOf3<Raw<Dynamic>, QueryCallback<Dynamic, Array<Any>>, QueryBuilder<TRecord, Dynamic>>>, wrap:Bool) -> QueryBuilder<TRecord, TResult>, (callbacks:haxe.extern.Rest<ts.AnyOf3<Raw<Dynamic>, QueryCallback<Dynamic, Array<Any>>, QueryBuilder<TRecord, Dynamic>>>) -> QueryBuilder<TRecord, TResult>>;

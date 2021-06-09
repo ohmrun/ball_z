@@ -1,0 +1,3 @@
+package knex;
+
+typedef With<TRecord, TResult> = ts.AnyOf5<(alias:String, raw:ts.AnyOf2<Raw<Dynamic>, QueryBuilder<Dynamic, Array<Dynamic>>>) -> QueryBuilder<TRecord, TResult>, (alias:String, sql:String) -> QueryBuilder<TRecord, TResult>, (alias:String, sql:String, bindings:ts.AnyOf2<Dynamic, Array<Value>>) -> QueryBuilder<TRecord, TResult>, (alias:String, queryBuilder:QueryBuilder<Dynamic, Array<Dynamic>>) -> QueryBuilder<TRecord, TResult>, (alias:String, callback:(queryBuilder:QueryBuilder<Dynamic, Array<Dynamic>>) -> Dynamic) -> QueryBuilder<TRecord, TResult>>;

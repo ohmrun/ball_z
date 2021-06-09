@@ -1,0 +1,3 @@
+package bookshelf;
+
+typedef ModelSubclass = { };
