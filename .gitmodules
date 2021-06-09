@@ -117,6 +117,7 @@
 [submodule "hxp/git"]
 	path = hxp/git
 	url = https://github.com/haxelime/hxp.git
+	branch = master
 [submodule "stx_pkg/git"]
 	path = stx_pkg/git
 	url = https://github.com/ohmrun/stx_pkg.git
@@ -124,6 +125,7 @@
 [submodule "stx_di/git"]
 	path = stx_di/git
 	url = https://github.com/ohmrun/stx_di.git
+	branch = master
 [submodule "tink_priority/git"]
 	path = tink_priority/git
 	url = https://github.com/haxetink/tink_priority.git
@@ -139,6 +141,7 @@
 [submodule "hscript/git"]
 	path = hscript/git
 	url = https://github.com/HaxeFoundation/hscript.git
+	branch = master
 [submodule "vendor/haxe-repl"]
 	path = vendor/haxe-repl
 	url = https://github.com/0b1kn00b/haxe-repl.git
@@ -230,6 +233,7 @@
 [submodule "stx_http_client/git"]
 	path = stx_http_client/git
 	url = https://github.com/ohmrun/stx_http_client.git
+	branch = master
 [submodule "stx_nodejs/git"]
 	path = stx_nodejs/git
 	url = https://github.com/ohmrun/stx_nodejs.git
@@ -249,9 +253,11 @@
 [submodule "stx_schema/git"]
 	path = stx_schema/git
 	url = https://github.com/ohmrun/stx_schema.git
+	branch = master
 [submodule "coconut,ui/git"]
 	path = coconut,ui/git
 	url = https://github.com/MVCoconut/coconut.ui.git
+	branch = master
 [submodule "coconut,data/git"]
 	path = coconut,data/git
 	url = https://github.com/MVCoconut/coconut.data.git
@@ -275,6 +281,7 @@
 [submodule "html-entities/git"]
 	path = html-entities/git
 	url = https://github.com/back2dos/html-entities.git
+	branch = master
 [submodule "tink_parse/git"]
 	path = tink_parse/git
 	url = https://github.com/haxetink/tink_parse
