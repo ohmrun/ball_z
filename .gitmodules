@@ -322,3 +322,6 @@
 	path = walker/git
 	url = https://github.com/ohmrun/walker.git
 	branch = master
+[submodule "hre"]
+	path = hre
+	url = https://gitlab.com/demurgos/hre.git
