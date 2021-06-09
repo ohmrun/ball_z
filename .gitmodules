@@ -325,6 +325,7 @@
 [submodule "hre/git"]
 	path = hre/git
 	url = https://gitlab.com/demurgos/hre.git
+[submodule "hre/git"]
 	path = captain/git
 	url = https://github.com/khalyomede/captain.git
 [submodule "checkstyle/git"]
