@@ -325,3 +325,5 @@
 [submodule "hre/git"]
 	path = hre/git
 	url = https://gitlab.com/demurgos/hre.git
+	path = captain/git
+	url = https://github.com/khalyomede/captain.git
