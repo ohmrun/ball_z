@@ -1,0 +1,3 @@
+package koa;
+
+typedef DefaultContextExtends = { };

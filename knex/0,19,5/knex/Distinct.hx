@@ -1,0 +1,3 @@
+package knex;
+
+typedef Distinct<TRecord, TResult> = ts.AnyOf5<(columnName:String) -> QueryBuilder<TRecord, Array<DeferredKeySelection<TRecord, String, Bool, { }, Bool, { }, Any>>>, (columnNames:haxe.extern.Rest<Any>) -> QueryBuilder<TRecord, Any>, (columnNames:Array<Any>) -> QueryBuilder<TRecord, Any>, (columnNames:haxe.extern.Rest<ColumnDescriptor<TRecord, TResult>>) -> QueryBuilder<TRecord, Any>, (columnNames:Array<ColumnDescriptor<TRecord, TResult>>) -> QueryBuilder<TRecord, Any>>;

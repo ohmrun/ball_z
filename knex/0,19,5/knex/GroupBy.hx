@@ -1,0 +1,3 @@
+package knex;
+
+typedef GroupBy<TRecord, TResult> = ts.AnyOf8<(sql:String, bindings:haxe.extern.Rest<RawBinding>) -> QueryBuilder<TRecord, Any>, (sql:String, bindings:ts.AnyOf2<Array<RawBinding>, ValueDict>) -> QueryBuilder<TRecord, Any>, (raw:Raw<Any>) -> QueryBuilder<TRecord, Any>, (columnName:String) -> QueryBuilder<TRecord, Array<DeferredKeySelection<TRecord, String, Bool, { }, Bool, { }, Any>>>, (columnNames:haxe.extern.Rest<Any>) -> QueryBuilder<TRecord, Any>, (columnNames:Array<Any>) -> QueryBuilder<TRecord, Any>, (columnNames:haxe.extern.Rest<ColumnDescriptor<TRecord, TResult>>) -> QueryBuilder<TRecord, Any>, (columnNames:Array<ColumnDescriptor<TRecord, TResult>>) -> QueryBuilder<TRecord, Any>>;
