@@ -328,3 +328,6 @@
 [submodule "captain"]
 	path = captain/git
 	url = https://github.com/khalyomede/captain.git
+[submodule "checkstyle/git"]
+	path = checkstyle/git
+	url = https://github.com/HaxeCheckstyle/haxe-checkstyle.git
