@@ -326,5 +326,5 @@
 	path = hre/git
 	url = https://gitlab.com/demurgos/hre.git
 [submodule "captain"]
-	path = captain
+	path = captain/git
 	url = https://github.com/khalyomede/captain.git
