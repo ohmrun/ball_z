@@ -142,10 +142,6 @@
 	path = hscript/git
 	url = https://github.com/HaxeFoundation/hscript.git
 	branch = master
-[submodule "vendor/haxe-repl"]
-	path = vendor/haxe-repl
-	url = https://github.com/0b1kn00b/haxe-repl.git
-	branch = master
 [submodule "dataclass/git"]
 	path = dataclass/git
 	url = https://github.com/0b1kn00b/dataclass.git
@@ -165,10 +161,6 @@
 [submodule "ansi/git"]
 	path = ansi/git
 	url = https://github.com/SmilyOrg/ansi.git
-	branch = master
-[submodule "munit/git"]
-	path = munit/git
-	url = https://github.com/massiveinteractive/MassiveUnit.git
 	branch = master
 [submodule "asys/git"]
 	path = asys/git
