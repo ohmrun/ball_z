@@ -1,198 +1,251 @@
 [submodule "hx3compat/git"]
 	path = hx3compat/git
 	url = https://github.com/0b1kn00b/hx3compat.git
+	branch = master
 [submodule "stx_fn/git"]
 	path = stx_fn/git
 	url = https://github.com/ohmrun/stx_fn.git
+	branch = master
 [submodule "stx_log/git"]
 	path = stx_log/git
 	url = https://github.com/ohmrun/stx_log.git
+	branch = master
 [submodule "stx_assert/git"]
 	path = stx_assert/git
 	url = https://github.com/ohmrun/stx_assert.git
+	branch = master
 [submodule "utest/git"]
 	path = utest/git
 	url = https://github.com/haxe-utest/utest.git
+	branch = master
 [submodule "stx_test/git"]
 	path = stx_test/git
 	url = https://github.com/ohmrun/stx_test.git
+	branch = master
 [submodule "stx_fp/git"]
 	path = stx_fp/git
 	url = https://github.com/ohmrun/stx_fp.git
+	branch = master
 [submodule "tink_http/git"]
 	path = tink_http/git
 	url = https://github.com/haxetink/tink_http.git
+	branch = master
 [submodule "tink_core/git"]
 	path = tink_core/git
 	url = https://github.com/0b1kn00b/tink_core.git
+	branch = master
 [submodule "tink_anon/git"]
 	path = tink_anon/git
 	url = https://github.com/haxetink/tink_anon.git
+	branch = master
 [submodule "tink_io/git"]
 	path = tink_io/git
 	url = https://github.com/haxetink/tink_io.git
+	branch = master
 [submodule "tink_url/git"]
 	path = tink_url/git
 	url = https://github.com/haxetink/tink_url.git
+	branch = master
 [submodule "http-status/git"]
 	path = http-status/git
 	url = https://github.com/kevinresol/http-status.git
+	branch = master
 [submodule "tink_macro/git"]
 	path = tink_macro/git
 	url = https://github.com/haxetink/tink_macro.git
+	branch = master
 [submodule "tink_chunk/git"]
 	path = tink_chunk/git
 	url = https://github.com/haxetink/tink_chunk.git
+	branch = master
 [submodule "tink_streams/git"]
 	path = tink_streams/git
 	url = https://github.com/haxetink/tink_streams.git
+	branch = master
 [submodule "tink_stringly/git"]
 	path = tink_stringly/git
 	url = https://github.com/haxetink/tink_stringly.git
+	branch = master
 [submodule "hxnodejs/git"]
 	path = hxnodejs/git
 	url = https://github.com/HaxeFoundation/hxnodejs.git
+	branch = master
 [submodule "tink_json/git"]
 	path = tink_json/git
 	url = https://github.com/haxetink/tink_json.git
+	branch = master
 [submodule "tink_typecrawler/git"]
 	path = tink_typecrawler/git
 	url = https://github.com/haxetink/tink_typecrawler.git
+	branch = master
 [submodule "cloner/git"]
 	path = cloner/git
 	url = https://github.com/thomasuster/cloner.git
+	branch = master
 [submodule "stx_makro/git"]
 	path = stx_makro/git
 	url = https://github.com/ohmrun/stx_makro.git
+	branch = master
 [submodule "stx_bake/git"]
 	path = stx_bake/git
 	url = https://github.com/ohmrun/stx_bake.git
+	branch = master
 [submodule "stx_ds/git"]
 	path = stx_ds/git
 	url = https://github.com/ohmrun/stx_ds.git
+	branch = master
 [submodule "stx_nano/git"]
 	path = stx_nano/git
 	url = https://github.com/ohmrun/stx_nano.git
+	branch = master
 [submodule "stx_pico/git"]
 	path = stx_pico/git
 	url = https://github.com/ohmrun/stx_pico.git
+	branch = master
 [submodule "polygonal-printf/git"]
 	path = polygonal-printf/git
 	url = https://github.com/polygonal/printf.git
+	branch = master
 [submodule "modular/git"]
 	path = modular/git
 	url = https://github.com/elsassph/haxe-modular.git
+	branch = master
 [submodule "hxmake/git"]
 	path = hxmake/git
 	url = https://github.com/eliasku/hxmake.git
+	branch = master
 [submodule "hxp/git"]
 	path = hxp/git
 	url = https://github.com/haxelime/hxp.git
-[submodule "haxe-injection/git"]
-	path = haxe-injection/git
-	url = https://github.com/paulsgcross/haxe-injection.git
 [submodule "stx_pkg/git"]
 	path = stx_pkg/git
 	url = https://github.com/ohmrun/stx_pkg.git
+	branch = master
 [submodule "stx_di/git"]
 	path = stx_di/git
 	url = https://github.com/ohmrun/stx_di.git
 [submodule "tink_priority/git"]
 	path = tink_priority/git
 	url = https://github.com/haxetink/tink_priority.git
+	branch = master
 [submodule "tink_syntaxhub/git"]
 	path = tink_syntaxhub/git
 	url = https://github.com/haxetink/tink_syntaxhub.git
+	branch = master
 [submodule "tink_cli/git"]
 	path = tink_cli/git
 	url = https://github.com/haxetink/tink_cli.git
+	branch = master
 [submodule "hscript/git"]
 	path = hscript/git
 	url = https://github.com/HaxeFoundation/hscript.git
 [submodule "vendor/haxe-repl"]
 	path = vendor/haxe-repl
 	url = https://github.com/0b1kn00b/haxe-repl.git
+	branch = master
 [submodule "dataclass/git"]
 	path = dataclass/git
 	url = https://github.com/0b1kn00b/dataclass.git
+	branch = master
 [submodule "tink_validation/git"]
 	path = tink_validation/git
 	url = https://github.com/0b1kn00b/tink_validation.git
-[submodule "backend"]
-	path = deploy
-	url = https://gitlab.com/vaar-projects/strapi_prestaging.git
+	branch = master
 [submodule "tink_unittest/git"]
 	path = tink_unittest/git
 	url = https://github.com/haxetink/tink_unittest.git
+	branch = master
 [submodule "tink_testrunner/git"]
 	path = tink_testrunner/git
 	url = https://github.com/haxetink/tink_testrunner.git
+	branch = master
 [submodule "ansi/git"]
 	path = ansi/git
 	url = https://github.com/SmilyOrg/ansi.git
+	branch = master
 [submodule "munit/git"]
 	path = munit/git
 	url = https://github.com/massiveinteractive/MassiveUnit.git
+	branch = master
 [submodule "asys/git"]
 	path = asys/git
 	url = https://github.com/benmerckx/asys.git
+	branch = master
 [submodule "console,hx/git"]
 	path = console,hx/git
 	url = https://github.com/haxiomic/console.hx.git
+	branch = master
 [submodule "equals/git"]
 	path = equals/git
 	url = https://github.com/elnabo/equals.git
+	branch = master
 [submodule "hxcs/git"]
 	path = hxcs/git
 	url = https://github.com/HaxeFoundation/hxcs.git
+	branch = master
 [submodule "moon-run/git"]
 	path = moon-run/git
 	url = https://github.com/profound7/moon-run.git
+	branch = master
 [submodule "mcli/git"]
 	path = mcli/git
 	url = https://github.com/waneck/mcli.git
+	branch = master
 [submodule "stx_show"]
 	path = stx_show/git
 	url = https://github.com/ohmrun/stx_show.git
+	branch = master
 [submodule "tink_clone/git"]
 	path = tink_clone/git
 	url = https://github.com/0b1kn00b/tink_clone.git
+	branch = master
 [submodule "tink_template/git"]
 	path = tink_template/git
 	url = https://github.com/haxetink/tink_template.git
+	branch = master
 [submodule "tink_htmlstring/git"]
 	path = tink_htmlstring/git
 	url = https://github.com/haxetink/tink_htmlstring.git
+	branch = master
 [submodule "anonstruct/git"]
 	path = anonstruct/git
 	url = https://github.com/triture/anonstruct.git
+	branch = master
 [submodule "datetime/git"]
 	path = datetime/git
 	url = https://github.com/RealyUniqueName/DateTime.git
+	branch = master
 [submodule "moon-run/.git"]
 	path = moon-run/.git
 	url = https://github.com/0b1kn00b/moon-run.git
+	branch = master
 [submodule "stx_store/git"]
 	path = stx_store/git
 	url = https://github.com/ohmrun/stx_store.git
+	branch = master
 [submodule "sfletcher/git"]
 	path = fletcher/git
 	url = https://github.com/ohmrun/fletcher.git
+	branch = master
 [submodule "stx_http_client/git"]
 	path = stx_http_client/git
-	url = git@github.com:ohmrun/stx_http_client.git
+	url = https://github.com/ohmrun/stx_http_client.git
 [submodule "stx_nodejs/git"]
 	path = stx_nodejs/git
-	url = git@github.com:ohmrun/stx_nodejs.git
+	url = https://github.com/ohmrun/stx_nodejs.git
+	branch = master
 [submodule "stx_uti/git"]
 	path = stx_uti/git
-	url = git@github.com:ohmrun/stx_uti.git
+	url = https://github.com/ohmrun/stx_uti.git
+	branch = master
 [submodule "coconut,react-core/git"]
 	path = coconut,react-core/git
 	url = https://github.com/MVCoconut/coconut.react-core.git
+	branch = master
 [submodule "coconut,react-dom/git"]
 	path = coconut,react-dom/git
 	url = https://github.com/MVCoconut/coconut.react-dom.git
+	branch = master
 [submodule "stx_schema/git"]
 	path = stx_schema/git
 	url = https://github.com/ohmrun/stx_schema.git
@@ -202,24 +255,30 @@
 [submodule "coconut,data/git"]
 	path = coconut,data/git
 	url = https://github.com/MVCoconut/coconut.data.git
+	branch = master
 [submodule "tink_pure/git"]
 	path = tink_pure/git
 	url = https://github.com/haxetink/tink_pure.git
+	branch = master
 [submodule "tink_slice/git"]
 	path = tink_slice/git
 	url = https://github.com/haxetink/tink_slice.git
+	branch = master
 [submodule "tink_state/git"]
 	path = tink_state/git
 	url = https://github.com/haxetink/tink_state/
+	branch = master
 [submodule "tink_hxx/git"]
 	path = tink_hxx/git
 	url = https://github.com/haxetink/tink_hxx
+	branch = master
 [submodule "html-entities/git"]
 	path = html-entities/git
 	url = https://github.com/back2dos/html-entities.git
 [submodule "tink_parse/git"]
 	path = tink_parse/git
 	url = https://github.com/haxetink/tink_parse
+	branch = master
 [submodule "haxe-react/git"]
 	path = react-next/git
 	url = https://github.com/kLabz/haxe-react.git
@@ -227,30 +286,40 @@
 [submodule "js-object/git"]
 	path = js-object/git
 	url = https://github.com/kLabz/js-object.git
+	branch = master
 [submodule "tink_domspec/git"]
 	path = tink_domspec/git
 	url = https://github.com/haxetink/tink_domspec
+	branch = master
 [submodule "tink_svgspec/git"]
 	path = tink_svgspec/git
 	url = https://github.com/haxetink/tink_svgspec
+	branch = master
 [submodule "embed-js/git"]
 	path = embed-js/git
 	url = https://github.com/back2dos/embed-js.git
+	branch = master
 [submodule "haxe-material-ui/git"]
 	path = material-ui/git
 	url = https://gitlab.com/k-labz/haxe-oss/haxe-material-ui.git
+	branch = master
 [submodule "haxe-css-types/git"]
 	path = css-types/git
 	url = https://github.com/kLabz/haxe-css-types.git
+	branch = master
 [submodule "react-event-listener/git"]
 	path = react-event-listener/git
 	url = https://github.com/kLabz/haxe-react-event-listener.git
+	branch = master
 [submodule "react-types/git"]
 	path = react-types/git
 	url = https://github.com/kLabz/haxe-react-types.git
+	branch = master
 [submodule "react-transition-group/git"]
 	path = react-transition-group/git
 	url = https://github.com/kLabz/haxe-react-transition-group.git
+	branch = master
 [submodule "walker/git"]
 	path = walker/git
-	url = git@github.com:ohmrun/walker.git
+	url = https://github.com/ohmrun/walker.git
+	branch = master
