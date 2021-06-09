@@ -330,3 +330,6 @@
 [submodule "checkstyle/git"]
 	path = checkstyle/git
 	url = https://github.com/HaxeCheckstyle/haxe-checkstyle.git
+[submodule "hxparse/git"]
+	path = hxparse/git
+	url = https://github.com/Simn/hxparse.git
