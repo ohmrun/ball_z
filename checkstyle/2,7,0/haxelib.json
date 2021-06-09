@@ -1,0 +1,25 @@
+{
+    "name": "checkstyle",
+    "classPath": "src",
+    "license": "MIT",
+    "tags": [
+        "checkstyle",
+        "haxe",
+        "standards",
+        "static",
+        "analysis",
+        "coding",
+        "style",
+        "cross"
+    ],
+    "description": "Automated code analysis ideal for projects that want to enforce a coding standard.",
+    "contributors": [
+        "AlexHaxe",
+        "adireddy",
+        "Gama11"
+	],
+    "releasenote": "breaking change: EnforceVarTypeHint renamed to VarTypeHint - see CHANGELOG",
+    "version": "2.7.0",
+    "url": "https://github.com/HaxeCheckstyle/haxe-checkstyle",
+    "dependencies": {}
+}

@@ -1,0 +1,48 @@
+{
+    "name": "@haxecheckstyle/haxe-checkstyle",
+    "version": "2.7.0",
+    "description": "Automated code analysis ideal for projects that want to enforce a coding standard.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HaxeCheckstyle/haxe-checkstyle"
+    },
+    "keywords": [
+        "checkstyle",
+        "haxe",
+        "standards",
+        "static",
+        "analysis",
+        "coding",
+        "style",
+        "cross"
+    ],
+    "author": {
+        "name": "Alexander Blum",
+        "email": "Alexander.Blum@gmail.com"
+    },
+    "contributors": [
+        {
+            "name": "Adi Reddy Mora"
+        },
+        {
+            "name": "Jens Fischer"
+        }
+    ],
+    "devDependencies": {
+        "lix": "^15.10.1"
+    },
+    "bugs": "https://github.com/HaxeCheckstyle/haxe-checkstyle/issues",
+    "license": "MIT",
+    "bin": {
+        "haxe-checkstyle": "bin/checkstyle.js"
+    },
+    "files": [
+        "bin"
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "scripts": {
+        "build": "haxe buildAll.hxml"
+    }
+}
