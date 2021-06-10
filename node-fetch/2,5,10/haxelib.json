@@ -13,7 +13,7 @@
 	],
 	"dependencies": {
 		"node": "15.3.0",
-		"form-data": "3.0.1"
+		"form-data": ""
 	},
 	"version": "2.5.10"
 }
