@@ -288,11 +288,11 @@
 	branch = master
 [submodule "tink_domspec/git"]
 	path = tink_domspec/git
-	url = https://github.com/haxetink/tink_domspec
+	url = https://github.com/haxetink/tink_domspec.git
 	branch = master
 [submodule "tink_svgspec/git"]
 	path = tink_svgspec/git
-	url = https://github.com/haxetink/tink_svgspec
+	url = https://github.com/haxetink/tink_svgspec.git
 	branch = master
 [submodule "embed-js/git"]
 	path = embed-js/git
