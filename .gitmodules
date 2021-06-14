@@ -334,3 +334,6 @@
 [submodule "hxparse/git"]
 	path = hxparse/git
 	url = https://github.com/Simn/hxparse.git
+[submodule "coconut,router/git"]
+	path = coconut,router/git
+	url = https://github.com/kevinresol/coconut.router.git
