@@ -340,3 +340,6 @@
 [submodule "stx_coroutine/git"]
 	path = stx_coroutine/git
 	url = https://github.com/ohmrun/stx_coroutine.git
+[submodule "spectatory/git"]
+	path = spectatory/git
+	url = https://github.com/kevinresol/spectatory.git
