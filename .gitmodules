@@ -350,5 +350,5 @@
 	path = coconut,diffing/git
 	url = https://github.com/MVCoconut/coconut.diffing.git
 [submodule "xdom/git"]
-	path = xDom/git
+	path = xDOM/git
 	url = https://github.com/darmie/xdom.git
