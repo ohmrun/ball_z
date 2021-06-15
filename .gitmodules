@@ -352,3 +352,6 @@
 [submodule "xDOM/git"]
 	path = xDOM/git
 	url = https://github.com/back2dos/xDOM.git
+[submodule "tink_csss/git"]
+	path = tink_csss/git
+	url = https://github.com/haxetink/tink_csss.git
