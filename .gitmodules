@@ -343,3 +343,6 @@
 [submodule "spectatory/git"]
 	path = spectatory/git
 	url = https://github.com/kevinresol/spectatory.git
+[submodule "coconut,vdom/git"]
+	path = coconut,vdom/git
+	url = https://github.com/MVCoconut/coconut.vdom
