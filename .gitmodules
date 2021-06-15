@@ -346,3 +346,6 @@
 [submodule "coconut,vdom/git"]
 	path = coconut,vdom/git
 	url = https://github.com/MVCoconut/coconut.vdom
+[submodule "coconut,diffing/git"]
+	path = coconut,diffing/git
+	url = https://github.com/MVCoconut/coconut.diffing.git
