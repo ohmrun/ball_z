@@ -349,9 +349,12 @@
 [submodule "coconut,diffing/git"]
 	path = coconut,diffing/git
 	url = https://github.com/MVCoconut/coconut.diffing.git
+	branch = master
 [submodule "xDOM/git"]
 	path = xDOM/git
 	url = https://github.com/back2dos/xDOM.git
+	branch = master
 [submodule "tink_csss/git"]
 	path = tink_csss/git
 	url = https://github.com/haxetink/tink_csss.git
+	branch = master
