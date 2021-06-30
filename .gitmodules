@@ -361,3 +361,6 @@
 [submodule "haxe-ws/git"]
 	path = haxe-ws/git
 	url = https://github.com/soywiz/haxe-ws.git
+[submodule "haxe-strings/git"]
+	path = haxe-strings/git
+	url = https://github.com/vegardit/haxe-strings.git
