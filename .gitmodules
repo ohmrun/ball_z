@@ -358,3 +358,6 @@
 	path = tink_csss/git
 	url = https://github.com/haxetink/tink_csss.git
 	branch = master
+[submodule "haxe-ws/git"]
+	path = haxe-ws/git
+	url = https://github.com/soywiz/haxe-ws.git
