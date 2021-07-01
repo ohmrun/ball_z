@@ -364,6 +364,3 @@
 [submodule "haxe-strings/git"]
 	path = haxe-strings/git
 	url = https://github.com/vegardit/haxe-strings.git
-[submodule "haxe-files/git"]
-	path = haxe-files/git
-	url = https://github.com/vegardit/haxe-files.git
