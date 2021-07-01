@@ -373,3 +373,6 @@
 [submodule "stx_stream/git"]
 	path = stx_stream/git
 	url = https://github.com/ohmrun/stx_stream
+[submodule "colyseus-websocket-hx/git"]
+	path = colyseus-websocket-hx/git
+	url = https://github.com/colyseus/colyseus-websocket-hx.git
