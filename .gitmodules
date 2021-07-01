@@ -360,7 +360,7 @@
 	branch = master
 [submodule "haxe-ws/git"]
 	path = haxe-ws/git
-	url = https://github.com/soywiz/haxe-ws.git
+	url = https://github.com/ohmrun/haxe-ws.git
 [submodule "haxe-files/git"]
 	path = haxe-files/git
 	url = https://github.com/0b1kn00b/haxe-files.git
