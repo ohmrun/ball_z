@@ -375,6 +375,6 @@
 	url = https://github.com/ohmrun/stx_stream
 	branch = master
 [submodule "colyseus-websocket-hx/git"]
-	path = colyseus-websocket-hx/git
+	path = colyseus-websocket/git
 	url = https://github.com/colyseus/colyseus-websocket-hx.git
 	branch = master
