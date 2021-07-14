@@ -361,15 +361,20 @@
 [submodule "haxe-files/git"]
 	path = haxe-files/git
 	url = https://github.com/0b1kn00b/haxe-files.git
+	branch = master
 [submodule "haxe-strings/git"]
 	path = haxe-strings/git
 	url = https://github.com/0b1kn00b/haxe-strings.git
+	branch = master
 [submodule "haxe-concurrent/git"]
 	path = haxe-concurrent/git
 	url = https://github.com/0b1kn00b/haxe-concurrent.git
+	branch = master
 [submodule "stx_stream/git"]
 	path = stx_stream/git
 	url = https://github.com/ohmrun/stx_stream
+	branch = master
 [submodule "colyseus-websocket-hx/git"]
 	path = colyseus-websocket-hx/git
 	url = https://github.com/colyseus/colyseus-websocket-hx.git
+	branch = master
