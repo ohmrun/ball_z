@@ -1,4 +1,3 @@
 #!/bin/bash 
 
-git pull
-git submodule update --init --remote
+git pull --recurse-submodules
