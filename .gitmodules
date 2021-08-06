@@ -381,3 +381,4 @@
 [submodule "stx_parse/git"]
 	path = stx_parse/git
 	url = https://github.com/ohmrun/stx_parse.git
+	branch = master
