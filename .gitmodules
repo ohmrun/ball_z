@@ -333,7 +333,7 @@
 	url = https://github.com/HaxeCheckstyle/haxe-checkstyle.git
 [submodule "hxparse/git"]
 	path = hxparse/git
-	url = https://github.com/Simn/hxparse.git
+	url = https://github.com/0b1kn00b/hxparse.git
 [submodule "coconut,router/git"]
 	path = coconut,router/git
 	url = https://github.com/kevinresol/coconut.router.git
