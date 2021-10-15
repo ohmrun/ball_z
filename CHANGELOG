@@ -1,4 +1,49 @@
 
+commit f502e6ce16adfefc0faf599aa3934e437e51a270
+Merge: 4714a7e 5279c2f
+Author: 0b1kn00b <polysemantic@gmail.com>
+Date:   Fri Oct 15 11:56:32 2021 +0200
+
+    Merge branch 'master' of github.com:ohmrun/ball_z
+
+commit 4714a7e318d753c8e90923991e74c9cbab7fa3da
+Author: 0b1kn00b <polysemantic@gmail.com>
+Date:   Fri Oct 15 11:56:21 2021 +0200
+
+    stx.cli started
+
+commit 5279c2f0b9b83231dcbe713d9ba34e9eef66f820
+Author: 0b1kn00b <polysemantic@gmail.com>
+Date:   Fri Oct 15 11:54:48 2021 +0200
+
+    updates
+
+Submodule stx_coroutine/git 28c1a7f..15676e1:
+  > Emiter._.sample
+  > haxe.json, Relate.toTunnel
+Submodule stx_fp/git 7d93bc1..050a0da:
+  > expandable now
+  > With macro
+Submodule stx_http_client/git 4ac8e14..1d60763:
+  > back up. Can use coroutines
+  > pulled
+  > there are remote changes need pulling in
+Submodule stx_nano/git 019a28d..803eb23:
+  > actually add Json
+  > Triple accessors, remove Stream, publish Catalog.Unit
+
+commit 321bc7432c0a6e457e01ff4bf2748328aa0b2971
+Author: 0b1kn00b <polysemantic@gmail.com>
+Date:   Fri Oct 8 13:03:53 2021 +0200
+
+    github munging CHANGELOG
+
+commit 78b77db61bba71b2fd0c5deeae64e9585569a52f
+Author: 0b1kn00b <polysemantic@gmail.com>
+Date:   Fri Oct 8 13:01:43 2021 +0200
+
+    changelog
+
 commit ffd9ca5d5a9acf7f5f8397023986fc221b3efd43
 Author: 0b1kn00b <polysemantic@gmail.com>
 Date:   Fri Oct 8 12:42:17 2021 +0200
